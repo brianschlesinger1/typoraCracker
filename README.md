@@ -44,7 +44,6 @@ optional arguments:
   -u          pack & encryption (default: extract & decryption)
   -f          enabled prettify/compress (default: disabled)
 
-If you have any questions, please contact [ MasonShi@88.com ]
 
 > python typora.py {installRoot}/Typora/resources/app.asar workstation/outfile/
 ⋯
